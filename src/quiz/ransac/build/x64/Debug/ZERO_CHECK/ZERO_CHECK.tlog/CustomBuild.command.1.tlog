@@ -1,0 +1,10 @@
+^C:\USERS\ANDRE\DOCUMENTS\UDACITY COURSES\SENSOR FUSION\SFND_LIDAR_OBSTACLE_DETECTION\SRC\QUIZ\RANSAC\BUILD\CMAKEFILES\9840EBD30694EAE86BC46A1BEDA3A507\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/andre/Documents/Udacity Courses/Sensor Fusion/SFND_Lidar_Obstacle_Detection/src/quiz/ransac" "-BC:/Users/andre/Documents/Udacity Courses/Sensor Fusion/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/andre/Documents/Udacity Courses/Sensor Fusion/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/playback.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

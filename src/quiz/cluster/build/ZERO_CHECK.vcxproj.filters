@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\andre\Documents\Udacity Courses\Sensor Fusion\SFND_Lidar_Obstacle_Detection\src\quiz\cluster\build\CMakeFiles\e77d4d41edfe3cd2a0a0a7acb096cba4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2BFBFC98-D14E-3AAB-A3B1-601868F2343B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
